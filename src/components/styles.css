@@ -1,29 +1,29 @@
 :root {
-  --light-bg: #e4ebf5;
-  --light-bg-dark-shadow: #bec8e4;
-  --light-bg-light-shadow: #ffffff;
+  --light-bg: #ffac26;
+  --light-bg-dark-shadow: #ff9d00;
+  --light-bg-light-shadow: #ffbb4d;
 
-  --dark-bg: #444444;
-  --dark-bg-dark-shadow: #363636;
-  --dark-bg-light-shadow: #525252;
+  --dark-bg: #1c1c1c;
+  --dark-bg-dark-shadow: #141414;
+  --dark-bg-light-shadow: #262626;
 
   --white: #ffffff;
   --black: #000000;
 
-  --primary: #2979ff;
-  --primary-dark: #2962ff;
-  --primary-light: #82b1ff;
+  --primary: #ffbe32;
+  --primary-dar: #ffbf00;
+  --primary-light: #ffd966;
 
   --error: #ff5252;
   --info: #2196f3;
   --success: #4caf50;
   --warning: #dfa700;
 
-  --g-text-color-light: rgba(0, 0, 0, 0.93);
+  --g-text-color-light: rgba(28, 28, 28, 1);
   --g-text-color-disabled-light: rgba(0, 0, 0, 0.45);
   --g-text-color-secondary-light: rgba(0, 0, 0, 0.7);
 
-  --g-text-color-dark: rgba(255, 255, 255, 0.93);
+  --g-text-color-dark: rgba(255, 190, 50, 1);
   --g-text-color-disabled-dark: rgba(255, 255, 255, 0.45);
   --g-text-color-secondary-dark: rgba(255, 255, 255, 0.7);
 
